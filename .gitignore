@@ -1,0 +1,6 @@
+# File Manager
+.DS_Store
+
+# ETC
+.vscode
+tmp/
