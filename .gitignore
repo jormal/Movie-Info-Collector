@@ -1,6 +1,24 @@
 # File Manager
 .DS_Store
 
+# FSharp Project Build Data
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+build/
+TestResults/
+
 # ETC
 .vscode
+.ionide
 tmp/
+*.swp
+*.log
+*.userprefs
+*.dll.mdb
+*.exe.mdb
+.vs/
+*.suo
+*.user
+*.sln.docstates
