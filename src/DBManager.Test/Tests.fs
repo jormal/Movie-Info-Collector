@@ -1,4 +1,4 @@
-namespace DBManager.Test
+namespace MIC.DBManager.Test
 
 open System
 open Microsoft.VisualStudio.TestTools.UnitTesting

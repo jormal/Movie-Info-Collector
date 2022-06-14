@@ -1,4 +1,4 @@
-namespace Utils.Test
+namespace MIC.Utils.Test
 
 open System
 open Microsoft.VisualStudio.TestTools.UnitTesting

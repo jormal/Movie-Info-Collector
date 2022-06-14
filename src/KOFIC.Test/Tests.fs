@@ -1,4 +1,4 @@
-namespace KOFIC.Test
+namespace MIC.KOFIC.Test
 
 open System
 open Microsoft.VisualStudio.TestTools.UnitTesting
